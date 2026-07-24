@@ -1,0 +1,314 @@
+[
+    {
+        "bitrate": 32,
+        "id": 1,
+        "name": "إبراهيم الأخضر",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Ibrahim_Akhdar_32kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 2,
+        "name": "إبراهيم الدوسري",
+        "rewaya": "ورش عن نافع",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 7,
+        "name": "أحمد نعينع",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://verse.mp3quran.net/arabic/ahmed_neana/64/"
+    },
+    {
+        "bitrate": 128,
+        "id": 8,
+        "name": "أحمد نعينع",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Ahmed_Neana_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 9,
+        "name": "أكرم العلاقمي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://verse.mp3quran.net/arabic/akram_alalaqmy/64/"
+    },
+    {
+        "bitrate": 128,
+        "id": 10,
+        "name": "أكرم العلاقمي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Akram_AlAlaqimy_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 11,
+        "name": "أيمن سُوَيْد",
+        "rewaya": "حفص عن عاصم",
+        "type": "مجود",
+        "url": "https://www.everyayah.com/data/Ayman_Sowaid_64kbps/"
+    },
+    {
+        "bitrate": 40,
+        "id": 19,
+        "name": "سعد الغامدي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Ghamadi_40kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 24,
+        "name": "عبد الباسط عبد الصمد",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Abdul_Basit_Murattal_64kbps/"
+    },
+    {
+        "bitrate": 192,
+        "id": 25,
+        "name": "عبد الباسط عبد الصمد",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Abdul_Basit_Murattal_192kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 26,
+        "name": "عبد الباسط عبد الصمد",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المجود",
+        "url": "https://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/"
+    },
+    {
+        "bitrate": 128,
+        "id": 27,
+        "name": "عبد الباسط عبد الصمد",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المجود",
+        "url": "https://www.everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 39,
+        "name": "علي الحذيفي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Hudhaify_64kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 40,
+        "name": "علي الحذيفي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Hudhaify_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 42,
+        "name": "علي حجاج السويسي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://verse.mp3quran.net/arabic/ali_hajjaj/64/"
+    },
+    {
+        "bitrate": 128,
+        "id": 43,
+        "name": "علي حجاج السويسي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Ali_Hajjaj_AlSuesy_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 48,
+        "name": "محمد الطبلاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Mohammad_al_Tablaway_64kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 49,
+        "name": "محمد الطبلاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Mohammad_al_Tablaway_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 50,
+        "name": "محمد أيوب",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Muhammad_Ayyoub_64kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 51,
+        "name": "محمد أيوب",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Muhammad_Ayyoub_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 52,
+        "name": "محمد جبريل",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Muhammad_Jibreel_64kbps/"
+    },
+    {
+        "bitrate": 16,
+        "id": 54,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Menshawi_16kbps/"
+    },
+    {
+        "bitrate": 32,
+        "id": 55,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Menshawi_32kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 56,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Minshawy_Murattal_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 107,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "المرتل الثاني",
+        "url": "https://raw.githubusercontent.com/aziz1media/minshawi-new-murattal-64/main/verses/"
+    },
+    {
+        "bitrate": 128,
+        "id": 108,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "المرتل الثاني",
+        "url": "https://raw.githubusercontent.com/aziz1media/minshawi-new-murattal-128/main/verses/"
+    },
+    {
+        "bitrate": 64,
+        "id": 57,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المجود",
+        "url": "https://www.everyayah.com/data/Minshawy_Mujawwad_64kbps/"
+    },
+    {
+        "bitrate": 192,
+        "id": 58,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المجود",
+        "url": "https://www.everyayah.com/data/Minshawy_Mujawwad_192kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 104,
+        "name": "محمد صديق المنشاوي",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المعلم",
+        "url": "https://www.everyayah.com/data/Minshawy_Teacher_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 60,
+        "name": "محمود خليل الحصري",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Husary_64kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 61,
+        "name": "محمود خليل الحصري",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Husary_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 62,
+        "name": "محمود خليل الحصري",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المجود",
+        "url": "https://www.everyayah.com/data/Husary_Mujawwad_64kbps/"
+    },
+    {
+        "bitrate": 128,
+        "id": 63,
+        "name": "محمود خليل الحصري",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المجود",
+        "url": "https://www.everyayah.com/data/Husary_128kbps_Mujawwad/"
+    },
+    {
+        "bitrate": 64,
+        "id": 64,
+        "name": "محمود خليل الحصري",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المعلم",
+        "url": "https://verse.mp3quran.net/arabic/mahmood_alhusary_muallim/64/"
+    },
+    {
+        "bitrate": 128,
+        "id": 65,
+        "name": "محمود خليل الحصري",
+        "rewaya": "حفص عن عاصم",
+        "type": "المصحف المعلم",
+        "url": "https://www.everyayah.com/data/Husary_Muallim_128kbps/"
+    },
+    {
+        "bitrate": 32,
+        "id": 66,
+        "name": "محمود علي البنا",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://verse.mp3quran.net/arabic/mahmoud_ali_albanna/32/"
+    },
+    {
+        "bitrate": 64,
+        "id": 76,
+        "name": "ياسر سلامة",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://verse.mp3quran.net/arabic/yaser_salamah/64/"
+    },
+    {
+        "bitrate": 128,
+        "id": 77,
+        "name": "ياسر سلامة",
+        "rewaya": "حفص عن عاصم",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/Yaser_Salamah_128kbps/"
+    },
+    {
+        "bitrate": 64,
+        "id": 78,
+        "name": "ياسين الجزائري",
+        "rewaya": "ورش عن نافع",
+        "type": "مرتل",
+        "url": "https://www.everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/"
+    }
+]
