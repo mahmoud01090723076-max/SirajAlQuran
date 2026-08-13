@@ -1,0 +1,764 @@
+[
+  {
+    "id": "tafsir-book-4",
+    "name": "جامع البيان في تأويل آي القرآن - الطبري",
+    "file_name": "tafsir-book-4.json.gz",
+    "size_mb": "10.03"
+  },
+  {
+    "id": "tafsir-book-269",
+    "name": "تفسير مجاهد - مجاهد بن جبر",
+    "file_name": "tafsir-book-269.json.gz",
+    "size_mb": "0.19"
+  },
+  {
+    "id": "tafsir-book-27755",
+    "name": "تفسير مقاتل بن سليمان - مقاتل بن سليمان",
+    "file_name": "tafsir-book-27755.json.gz",
+    "size_mb": "1.53"
+  },
+  {
+    "id": "tafsir-book-27758",
+    "name": "تفسير سفيان الثوري - سفيان الثوري",
+    "file_name": "tafsir-book-27758.json.gz",
+    "size_mb": "0.07"
+  },
+  {
+    "id": "tafsir-book-27765",
+    "name": "تفسير الإمام مالك - مالك بن أنس",
+    "file_name": "tafsir-book-27765.json.gz",
+    "size_mb": "0.24"
+  },
+  {
+    "id": "tafsir-book-27767",
+    "name": "تفسير الشافعي - الإمام الشافعي",
+    "file_name": "tafsir-book-27767.json.gz",
+    "size_mb": "0.43"
+  },
+  {
+    "id": "tafsir-book-27759",
+    "name": "تفسير النسائي - الإمام النسائي",
+    "file_name": "tafsir-book-27759.json.gz",
+    "size_mb": "0.20"
+  },
+  {
+    "id": "tafsir-book-27766",
+    "name": "تفسير يحيى بن سلام - يحيى بن سلام",
+    "file_name": "tafsir-book-27766.json.gz",
+    "size_mb": "0.55"
+  },
+  {
+    "id": "tafsir-book-149",
+    "name": "تفسير ابن أبي حاتم - ابن أبي حاتم الرازي",
+    "file_name": "tafsir-book-149.json.gz",
+    "size_mb": "3.15"
+  },
+  {
+    "id": "tafsir-book-27772",
+    "name": "تفسير ابن المنذر - ابن المنذر النيسابوري",
+    "file_name": "tafsir-book-27772.json.gz",
+    "size_mb": "0.30"
+  },
+  {
+    "id": "tafsir-book-2",
+    "name": "معالم التنزيل - البغوي",
+    "file_name": "tafsir-book-2.json.gz",
+    "size_mb": "4.56"
+  },
+  {
+    "id": "tafsir-book-136",
+    "name": "تفسير القرآن العظيم - ابن كثير",
+    "file_name": "tafsir-book-136.json.gz",
+    "size_mb": "8.34"
+  },
+  {
+    "id": "tafsir-book-1499",
+    "name": "الدر المنثور في التأويل بالمأثور - جلال الدين السيوطي",
+    "file_name": "tafsir-book-1499.json.gz",
+    "size_mb": "6.17"
+  },
+  {
+    "id": "tafsir-book-363",
+    "name": "تنوير المقباس من تفسير ابن عباس - الفيروزآبادي",
+    "file_name": "tafsir-book-363.json.gz",
+    "size_mb": "0.89"
+  },
+  {
+    "id": "tafsir-book-520",
+    "name": "تفسير القرآن العزيز - ابن أبي زمنين",
+    "file_name": "tafsir-book-520.json.gz",
+    "size_mb": "0.89"
+  },
+  {
+    "id": "tafsir-book-313",
+    "name": "الكشف والبيان عن تفسير القرآن - الثعلبي",
+    "file_name": "tafsir-book-313.json.gz",
+    "size_mb": "12.62"
+  },
+  {
+    "id": "tafsir-book-324",
+    "name": "بحر العلوم - السمرقندي",
+    "file_name": "tafsir-book-324.json.gz",
+    "size_mb": "2.35"
+  },
+  {
+    "id": "tafsir-book-134",
+    "name": "تفسير السمعاني - أبو مظفر السمعاني",
+    "file_name": "tafsir-book-134.json.gz",
+    "size_mb": "1.93"
+  },
+  {
+    "id": "tafsir-book-346",
+    "name": "الكشاف عن حقائق التنزيل - الزمخشري",
+    "file_name": "tafsir-book-346.json.gz",
+    "size_mb": "4.04"
+  },
+  {
+    "id": "tafsir-book-350",
+    "name": "المحرر الوجيز فى تفسير الكتاب العزيز - ابن عطية الأندلسي",
+    "file_name": "tafsir-book-350.json.gz",
+    "size_mb": "5.20"
+  },
+  {
+    "id": "tafsir-book-340",
+    "name": "زاد المسير في علم التفسير - ابن الجوزي",
+    "file_name": "tafsir-book-340.json.gz",
+    "size_mb": "4.53"
+  },
+  {
+    "id": "tafsir-book-352",
+    "name": "مفاتيح الغيب (التفسير الكبير) - الفخر الرازي",
+    "file_name": "tafsir-book-352.json.gz",
+    "size_mb": "17.98"
+  },
+  {
+    "id": "tafsir-book-1470",
+    "name": "النكت والعيون - الماوردي",
+    "file_name": "tafsir-book-1470.json.gz",
+    "size_mb": "1.67"
+  },
+  {
+    "id": "tafsir-book-319",
+    "name": "أنوار التنزيل وأسرار التأويل - البيضاوي",
+    "file_name": "tafsir-book-319.json.gz",
+    "size_mb": "2.30"
+  },
+  {
+    "id": "tafsir-book-26",
+    "name": "مدارك التنزيل وحقائق التأويل - النسفي",
+    "file_name": "tafsir-book-26.json.gz",
+    "size_mb": "1.93"
+  },
+  {
+    "id": "tafsir-book-468",
+    "name": "تأويلات أهل السنة - الماتريدي",
+    "file_name": "tafsir-book-468.json.gz",
+    "size_mb": "5.10"
+  },
+  {
+    "id": "tafsir-book-507",
+    "name": "لباب التأويل في معاني التنزيل - الخازن",
+    "file_name": "tafsir-book-507.json.gz",
+    "size_mb": "3.60"
+  },
+  {
+    "id": "tafsir-book-37",
+    "name": "إرشاد العقل السليم - أبو السعود",
+    "file_name": "tafsir-book-37.json.gz",
+    "size_mb": "3.48"
+  },
+  {
+    "id": "tafsir-book-301",
+    "name": "روح المعاني - الألوسي",
+    "file_name": "tafsir-book-301.json.gz",
+    "size_mb": "187.00"
+  },
+  {
+    "id": "tafsir-book-336",
+    "name": "روح البيان - إسماعيل حقي",
+    "file_name": "tafsir-book-336.json.gz",
+    "size_mb": "8.60"
+  },
+  {
+    "id": "tafsir-book-272",
+    "name": "تفسير الجلالين - المحلي والسيوطي",
+    "file_name": "tafsir-book-272.json.gz",
+    "size_mb": "0.85"
+  },
+  {
+    "id": "tafsir-book-27757",
+    "name": "حاشية الصاوي على تفسير الجلالين - أحمد الصاوي",
+    "file_name": "tafsir-book-27757.json.gz",
+    "size_mb": "2.60"
+  },
+  {
+    "id": "tafsir-book-337",
+    "name": "غرائب القرآن ورغائب الفرقان - النيسابوري",
+    "file_name": "tafsir-book-337.json.gz",
+    "size_mb": "69.83"
+  },
+  {
+    "id": "tafsir-book-339",
+    "name": "الجواهر الحسان في تفسير القرآن - الثعالبي",
+    "file_name": "tafsir-book-339.json.gz",
+    "size_mb": "4.64"
+  },
+  {
+    "id": "tafsir-book-27787",
+    "name": "السراج المنير - الخطيب الشربيني",
+    "file_name": "tafsir-book-27787.json.gz",
+    "size_mb": "3.51"
+  },
+  {
+    "id": "tafsir-book-27788",
+    "name": "التفسير المظهري - ثناء الله البانيبتي",
+    "file_name": "tafsir-book-27788.json.gz",
+    "size_mb": "3.70"
+  },
+  {
+    "id": "tafsir-book-108",
+    "name": "تفسير العز بن عبد السلام - العز بن عبد السلام",
+    "file_name": "tafsir-book-108.json.gz",
+    "size_mb": "0.87"
+  },
+  {
+    "id": "tafsir-book-169",
+    "name": "اللباب في علوم الكتاب - ابن عادل الحنبلي",
+    "file_name": "tafsir-book-169.json.gz",
+    "size_mb": "13.46"
+  },
+  {
+    "id": "tafsir-book-168",
+    "name": "نظم الدرر في تناسب الآيات والسور - البقاعي",
+    "file_name": "tafsir-book-168.json.gz",
+    "size_mb": "9.43"
+  },
+  {
+    "id": "tafsir-book-329",
+    "name": "تفسير التستري - سهل التستري",
+    "file_name": "tafsir-book-329.json.gz",
+    "size_mb": "0.54"
+  },
+  {
+    "id": "tafsir-book-206",
+    "name": "البحر المديد في تفسير القرآن المجيد - ابن عجيبة",
+    "file_name": "tafsir-book-206.json.gz",
+    "size_mb": "3.90"
+  },
+  {
+    "id": "tafsir-book-299",
+    "name": "مراح لبيد لكشف معنى القرآن المجيد - محمد نووي الجاوي",
+    "file_name": "tafsir-book-299.json.gz",
+    "size_mb": "1.68"
+  },
+  {
+    "id": "tafsir-book-27777",
+    "name": "لطائف الإشارات - القشيري",
+    "file_name": "tafsir-book-27777.json.gz",
+    "size_mb": "1.17"
+  },
+  {
+    "id": "tafsir-book-345",
+    "name": "التسهيل لعلوم التنزيل - ابن جزي الكلبي",
+    "file_name": "tafsir-book-345.json.gz",
+    "size_mb": "1.69"
+  },
+  {
+    "id": "tafsir-book-475",
+    "name": "التفسير البسيط - الواحدي",
+    "file_name": "tafsir-book-475.json.gz",
+    "size_mb": "8.24"
+  },
+  {
+    "id": "tafsir-book-72",
+    "name": "الوجيز في تفسير الكتاب العزيز - الواحدي",
+    "file_name": "tafsir-book-72.json.gz",
+    "size_mb": "0.70"
+  },
+  {
+    "id": "tafsir-book-367",
+    "name": "الهداية الى بلوغ النهاية - مكي بن أبي طالب",
+    "file_name": "tafsir-book-367.json.gz",
+    "size_mb": "4.35"
+  },
+  {
+    "id": "tafsir-book-322",
+    "name": "البحر المحيط في التفسير - أبو حيان الأندلسي",
+    "file_name": "tafsir-book-322.json.gz",
+    "size_mb": "190.00"
+  },
+  {
+    "id": "tafsir-book-27762",
+    "name": "النهر الماد من البحر المحيط - أبو حيان الأندلسي",
+    "file_name": "tafsir-book-27762.json.gz",
+    "size_mb": "5.27"
+  },
+  {
+    "id": "tafsir-book-323",
+    "name": "إيجاز البيان عن معاني القرآن - محمود بن أبي الحسن النيسابوري",
+    "file_name": "tafsir-book-323.json.gz",
+    "size_mb": "1.13"
+  },
+  {
+    "id": "tafsir-book-555",
+    "name": "تفسير ابن عرفة - ابن عرفة التونسي",
+    "file_name": "tafsir-book-555.json.gz",
+    "size_mb": "1.52"
+  },
+  {
+    "id": "tafsir-book-461",
+    "name": "غاية الأماني في تفسير الكلام الرباني - الكوراني",
+    "file_name": "tafsir-book-461.json.gz",
+    "size_mb": "0.28"
+  },
+  {
+    "id": "tafsir-book-462",
+    "name": "التقييد الكبير - البسيلي",
+    "file_name": "tafsir-book-462.json.gz",
+    "size_mb": "0.15"
+  },
+  {
+    "id": "tafsir-book-184",
+    "name": "التحرير والتنوير - الطاهر بن عاشور",
+    "file_name": "tafsir-book-184.json.gz",
+    "size_mb": "13.96"
+  },
+  {
+    "id": "tafsir-book-263",
+    "name": "تفسير المنار - محمد رشيد رضا",
+    "file_name": "tafsir-book-263.json.gz",
+    "size_mb": "6.86"
+  },
+  {
+    "id": "tafsir-book-27793",
+    "name": "تفسير المراغي - أحمد مصطفى المراغي",
+    "file_name": "tafsir-book-27793.json.gz",
+    "size_mb": "3.74"
+  },
+  {
+    "id": "tafsir-book-27798",
+    "name": "زهرة التفاسير - محمد أبو زهرة",
+    "file_name": "tafsir-book-27798.json.gz",
+    "size_mb": "3.59"
+  },
+  {
+    "id": "tafsir-book-18",
+    "name": "تفسير الشعراوي - محمد متولي الشعراوي",
+    "file_name": "tafsir-book-18.json.gz",
+    "size_mb": "7.44"
+  },
+  {
+    "id": "tafsir-book-321",
+    "name": "التفسير الوسيط - محمد سيد طنطاوي",
+    "file_name": "tafsir-book-321.json.gz",
+    "size_mb": "13.55"
+  },
+  {
+    "id": "tafsir-book-306",
+    "name": "التفسير المنير - وهبة الزحيلي",
+    "file_name": "tafsir-book-306.json.gz",
+    "size_mb": "15.38"
+  },
+  {
+    "id": "tafsir-book-160",
+    "name": "صفوة التفاسير - محمد علي الصابوني",
+    "file_name": "tafsir-book-160.json.gz",
+    "size_mb": "11.11"
+  },
+  {
+    "id": "tafsir-book-521",
+    "name": "مختصر تفسير ابن كثير - محمد علي الصابوني",
+    "file_name": "tafsir-book-521.json.gz",
+    "size_mb": "4.03"
+  },
+  {
+    "id": "tafsir-book-10",
+    "name": "المنتخب في تفسير القرآن الكريم - لجنة علماء الأزهر",
+    "file_name": "tafsir-book-10.json.gz",
+    "size_mb": "0.61"
+  },
+  {
+    "id": "tafsir-book-2012",
+    "name": "التفسير الميسر - مجمع الملك فهد",
+    "file_name": "tafsir-book-2012.json.gz",
+    "size_mb": "0.63"
+  },
+  {
+    "id": "tafsir-book-2003",
+    "name": "المختصر في تفسير القرآن الكريم - مركز تفسير",
+    "file_name": "tafsir-book-2003.json.gz",
+    "size_mb": "0.60"
+  },
+  {
+    "id": "tafsir-book-27799",
+    "name": "التفسير الحديث - محمد عزة دروزة",
+    "file_name": "tafsir-book-27799.json.gz",
+    "size_mb": "3.64"
+  },
+  {
+    "id": "tafsir-book-320",
+    "name": "التفسير الواضح - محمد محمود حجازي",
+    "file_name": "tafsir-book-320.json.gz",
+    "size_mb": "2.75"
+  },
+  {
+    "id": "tafsir-book-333",
+    "name": "التفسير القرآني للقرآن - عبد الكريم الخطيب",
+    "file_name": "tafsir-book-333.json.gz",
+    "size_mb": "13.91"
+  },
+  {
+    "id": "tafsir-book-349",
+    "name": "محاسن التأويل - جمال الدين القاسمي",
+    "file_name": "tafsir-book-349.json.gz",
+    "size_mb": "5.33"
+  },
+  {
+    "id": "tafsir-book-27794",
+    "name": "المصحف المفسّر - محمد فريد وجدي",
+    "file_name": "tafsir-book-27794.json.gz",
+    "size_mb": "0.64"
+  },
+  {
+    "id": "tafsir-book-27801",
+    "name": "صفوة البيان لمعاني القرآن - حسنين محمد مخلوف",
+    "file_name": "tafsir-book-27801.json.gz",
+    "size_mb": "0.71"
+  },
+  {
+    "id": "tafsir-book-325",
+    "name": "بيان المعاني - عبد القادر ملا حويش",
+    "file_name": "tafsir-book-325.json.gz",
+    "size_mb": "12.12"
+  },
+  {
+    "id": "tafsir-book-27807",
+    "name": "التفسير الشامل - أمير عبد العزيز",
+    "file_name": "tafsir-book-27807.json.gz",
+    "size_mb": "2.92"
+  },
+  {
+    "id": "tafsir-book-1",
+    "name": "تيسير التفسير - إبراهيم أطفيش",
+    "file_name": "tafsir-book-1.json.gz",
+    "size_mb": "1.68"
+  },
+  {
+    "id": "tafsir-book-1575",
+    "name": "تيسير العلي القدير لاختصار تفسير ابن كثير - محمد نسيب الرفاعي",
+    "file_name": "tafsir-book-1575.json.gz",
+    "size_mb": "2.31"
+  },
+  {
+    "id": "tafsir-book-384",
+    "name": "أوضح التفاسير - محمد محمد الخطيب",
+    "file_name": "tafsir-book-384.json.gz",
+    "size_mb": "0.91"
+  },
+  {
+    "id": "tafsir-book-499",
+    "name": "حدائق الروح والريحان في روابي علوم القرآن - محمد الأمين الهرري",
+    "file_name": "tafsir-book-499.json.gz",
+    "size_mb": "12.32"
+  },
+  {
+    "id": "tafsir-book-335",
+    "name": "الموسوعة القرآنية - إبراهيم الأبياري",
+    "file_name": "tafsir-book-335.json.gz",
+    "size_mb": "17.52"
+  },
+  {
+    "id": "tafsir-book-343",
+    "name": "فتح القدير - محمد بن علي الشوكاني",
+    "file_name": "tafsir-book-343.json.gz",
+    "size_mb": "9.42"
+  },
+  {
+    "id": "tafsir-book-400",
+    "name": "فتح البيان في مقاصد القرآن - صديق حسن خان",
+    "file_name": "tafsir-book-400.json.gz",
+    "size_mb": "4.50"
+  },
+  {
+    "id": "tafsir-book-3",
+    "name": "تيسير الكريم الرحمن - عبد الرحمن السعدي",
+    "file_name": "tafsir-book-3.json.gz",
+    "size_mb": "4.05"
+  },
+  {
+    "id": "tafsir-book-332",
+    "name": "التفسير القيم - ابن القيم",
+    "file_name": "tafsir-book-332.json.gz",
+    "size_mb": "1.25"
+  },
+  {
+    "id": "tafsir-book-27796",
+    "name": "أضواء البيان في إيضاح القرآن بالقرآن - محمد الأمين الشنقيطي",
+    "file_name": "tafsir-book-27796.json.gz",
+    "size_mb": "2.31"
+  },
+  {
+    "id": "tafsir-book-27797",
+    "name": "العذب النمير من مجالس الشنقيطي في التفسير - محمد الأمين الشنقيطي",
+    "file_name": "tafsir-book-27797.json.gz",
+    "size_mb": "1.07"
+  },
+  {
+    "id": "tafsir-book-201",
+    "name": "أيسر التفاسير لكلام العلي الكبير - أبو بكر الجزائري",
+    "file_name": "tafsir-book-201.json.gz",
+    "size_mb": "3.65"
+  },
+  {
+    "id": "tafsir-book-27804",
+    "name": "تفسير القرآن الكريم - محمد بن صالح العثيمين",
+    "file_name": "tafsir-book-27804.json.gz",
+    "size_mb": "1.02"
+  },
+  {
+    "id": "tafsir-book-27808",
+    "name": "الصحيح المسبور من التفسير بالمأثور - حكمت بشير ياسين",
+    "file_name": "tafsir-book-27808.json.gz",
+    "size_mb": "1.32"
+  },
+  {
+    "id": "tafsir-book-27775",
+    "name": "آراء ابن حزم الظاهري في التفسير - ابن حزم",
+    "file_name": "tafsir-book-27775.json.gz",
+    "size_mb": "0.57"
+  },
+  {
+    "id": "tafsir-book-27776",
+    "name": "جهود ابن عبد البر في التفسير - ابن عبد البر",
+    "file_name": "tafsir-book-27776.json.gz",
+    "size_mb": "0.15"
+  },
+  {
+    "id": "tafsir-book-27779",
+    "name": "جهود الإمام الغزالي في التفسير - الغزالي",
+    "file_name": "tafsir-book-27779.json.gz",
+    "size_mb": "0.24"
+  },
+  {
+    "id": "tafsir-book-27782",
+    "name": "جهود القرافي في التفسير - القرافي",
+    "file_name": "tafsir-book-27782.json.gz",
+    "size_mb": "0.39"
+  },
+  {
+    "id": "asbab-book-2919",
+    "name": "أسباب نزول القرآن - الواحدي",
+    "file_name": "asbab-book-2919.json.gz",
+    "size_mb": "0.25"
+  },
+  {
+    "id": "asbab-book-460",
+    "name": "المحرر في أسباب نزول القرآن - خالد المزيني",
+    "file_name": "asbab-book-460.json.gz",
+    "size_mb": "0.45"
+  },
+  {
+    "id": "nasekh-book-2391",
+    "name": "الإيضاح لناسخ القرآن ومنسوخه - مكي بن أبي طالب",
+    "file_name": "nasekh-book-2391.json.gz",
+    "size_mb": "0.14"
+  },
+  {
+    "id": "tafsir-book-64",
+    "name": "إعراب القرآن وبيانه - محيي الدين درويش",
+    "file_name": "tafsir-book-64.json.gz",
+    "size_mb": "5.72"
+  },
+  {
+    "id": "e3rab-book-180",
+    "name": "المجتبى من مشكل إعراب القرآن الكريم - أحمد الخراط",
+    "file_name": "e3rab-book-180.json.gz",
+    "size_mb": "0.75"
+  },
+  {
+    "id": "e3rab-book-309",
+    "name": "التبيان في إعراب القرآن - أبو البقاء العكبري",
+    "file_name": "e3rab-book-309.json.gz",
+    "size_mb": "1.09"
+  },
+  {
+    "id": "e3rab-book-316",
+    "name": "إعراب القرآن - أبو جعفر النحاس",
+    "file_name": "e3rab-book-316.json.gz",
+    "size_mb": "1.52"
+  },
+  {
+    "id": "e3rab-book-318",
+    "name": "إعراب القرآن - الزجاج",
+    "file_name": "e3rab-book-318.json.gz",
+    "size_mb": "1.72"
+  },
+  {
+    "id": "tafsir-book-162",
+    "name": "الدر المصون في علوم الكتاب المكنون - السمين الحلبي",
+    "file_name": "tafsir-book-162.json.gz",
+    "size_mb": "4.14"
+  },
+  {
+    "id": "tafsir-book-27768",
+    "name": "معاني القرآن - أبو جعفر النحاس",
+    "file_name": "tafsir-book-27768.json.gz",
+    "size_mb": "0.75"
+  },
+  {
+    "id": "tafsir-book-546",
+    "name": "معاني القرآن وإعرابه للزجاج - الزجاج",
+    "file_name": "tafsir-book-546.json.gz",
+    "size_mb": "1.78"
+  },
+  {
+    "id": "tafsir-book-27764",
+    "name": "غريب القرآن - ابن قتيبة",
+    "file_name": "tafsir-book-27764.json.gz",
+    "size_mb": "0.16"
+  },
+  {
+    "id": "tafsir-book-27761",
+    "name": "تذكرة الاريب في تفسير الغريب - ابن الجوزي",
+    "file_name": "tafsir-book-27761.json.gz",
+    "size_mb": "0.18"
+  },
+  {
+    "id": "tafsir-book-351",
+    "name": "معاني القرآن للفراء - الفراء",
+    "file_name": "tafsir-book-351.json.gz",
+    "size_mb": "1.16"
+  },
+  {
+    "id": "tafsir-book-27769",
+    "name": "مجاز القرآن - أبو عبيدة معمر بن المثنى",
+    "file_name": "tafsir-book-27769.json.gz",
+    "size_mb": "0.26"
+  },
+  {
+    "id": "tafsir-book-547",
+    "name": "تفسير الراغب الأصفهاني - الراغب الأصفهاني",
+    "file_name": "tafsir-book-547.json.gz",
+    "size_mb": "0.79"
+  },
+  {
+    "id": "tafsir-book-2013",
+    "name": "معاني الكلمات من كتاب السراج في بيان غريب القرآن - محمد الخضيري",
+    "file_name": "tafsir-book-2013.json.gz",
+    "size_mb": "0.22"
+  },
+  {
+    "id": "tafsir-book-27784",
+    "name": "التبيان في تفسير غريب القرآن - ابن الهائم",
+    "file_name": "tafsir-book-27784.json.gz",
+    "size_mb": "0.15"
+  },
+  {
+    "id": "tafsir-book-409",
+    "name": "تفسير غريب القرآن - حسن بن محمد الكواري",
+    "file_name": "tafsir-book-409.json.gz",
+    "size_mb": "0.25"
+  },
+  {
+    "id": "tafsir-book-27773",
+    "name": "أحكام القرآن - الجصاص",
+    "file_name": "tafsir-book-27773.json.gz",
+    "size_mb": "1.05"
+  },
+  {
+    "id": "tafsir-book-27778",
+    "name": "أحكام القرآن - الإمام الشافعي",
+    "file_name": "tafsir-book-27778.json.gz",
+    "size_mb": "0.43"
+  },
+  {
+    "id": "tafsir-book-27780",
+    "name": "أحكام القرآن - ابن العربي",
+    "file_name": "tafsir-book-27780.json.gz",
+    "size_mb": "1.26"
+  },
+  {
+    "id": "tafsir-book-27781",
+    "name": "أحكام القرآن - الكيا الهراسي",
+    "file_name": "tafsir-book-27781.json.gz",
+    "size_mb": "0.96"
+  },
+  {
+    "id": "tafsir-book-27774",
+    "name": "تفسير ابن خويز منداد - ابن خويز منداد",
+    "file_name": "tafsir-book-27774.json.gz",
+    "size_mb": "0.06"
+  },
+  {
+    "id": "al-jadwal-fi-i-rab-al-quran",
+    "name": "الجدول في إعراب القرآن - محمود صافي",
+    "file_name": "al-jadwal-fi-i-rab-al-quran.json",
+    "size_mb": "11.99"
+  },
+  {
+    "id": "al-i-rab-al-muyassar",
+    "name": "الإعراب الميسر لكلمات القرآن الكريم - محمد الطيب الإبراهيم",
+    "file_name": "al-i-rab-al-muyassar.json",
+    "size_mb": "9.83"
+  },
+  {
+    "id": "alrab-al-quran-li-da-as",
+    "name": "إعراب القرآن الكريم - أحمد عبيد الدعاس",
+    "file_name": "alrab-al-quran-li-da-as.json",
+    "size_mb": "8.95"
+  },
+  {
+    "id": "al-nashr-li-ibn-al-jazari",
+    "name": "النشر في القراءات العشر - ابن الجزري",
+    "file_name": "al-nashr-li-ibn-al-jazari.json",
+    "size_mb": "1.35"
+  },
+  {
+    "id": "al-qira-at-al-mawsoo-ah-al-qur-aniyyah",
+    "name": "الموسوعة القرآنية للقراءات",
+    "file_name": "al-qira-at-al-mawsoo-ah-al-qur-aniyyah.json",
+    "size_mb": "1.20"
+  },
+  {
+    "id": "tadabbur-wa-amal",
+    "name": "القرآن تدبر وعمل",
+    "file_name": "tadabbur-wa-amal.json",
+    "size_mb": "5.95"
+  },
+  {
+    "id": "tahlil-kalimat-al-qur-an",
+    "name": "تحليل كلمات القرآن",
+    "file_name": "tahlil-kalimat-al-qur-an.json",
+    "size_mb": "17.75"
+  },
+  {
+    "id": "al-muyassar-fi-al-gharib",
+    "name": "الميسر في غريب القرآن الكريم - نخبة من العلماء",
+    "file_name": "al-muyassar-fi-al-gharib.json",
+    "size_mb": "1.80"
+  },
+  {
+    "id": "ar-tafseer-al-qurtubi",
+    "name": "الجامع لأحكام القرآن - القرطبي",
+    "file_name": "ar-tafseer-al-qurtubi.json",
+    "size_mb": "32.84"
+  },
+  {
+    "id": "mawsoo-at-al-tafsir-al-ma-thoor",
+    "name": "موسوعة التفسير المأثور - مركز الدراسات القرآنية",
+    "file_name": "mawsoo-at-al-tafsir-al-ma-thoor.json",
+    "size_mb": "66.63"
+  },
+  {
+    "id": "jamia-al-bayan-aliji",
+    "name": "جامع البيان في تفسير القرآن - عضد الدين الآيجي",
+    "file_name": "jamia-al-bayan-aliji.json",
+    "size_mb": "4.40"
+  },
+  {
+    "id": "en_translation",
+    "name": "الترجمة الإنجليزية لمعاني القرآن الكريم",
+    "file_name": "en_translation.json",
+    "size_mb": "1.56"
+  }
+]
